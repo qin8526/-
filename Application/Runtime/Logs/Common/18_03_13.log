@@ -1,0 +1,240 @@
+[ 2018-03-13T18:59:00+08:00 ] ::1 /Grade_Serching_System/index.index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+ERR: 无法加载模块:Grade_Serching_System
+
+[ 2018-03-13T18:59:48+08:00 ] ::1 /Grade_Serching_System/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Grade_Serching_System
+
+[ 2018-03-13T19:01:54+08:00 ] ::1 /Grade_Serching_System/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Grade_Serching_System
+
+[ 2018-03-13T19:01:58+08:00 ] ::1 /Grade_Serching_System/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Grade_Serching_System
+
+[ 2018-03-13T19:09:30+08:00 ] ::1 /Grade_Serching_System/index/checkLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Grade_Serching_System
+
+[ 2018-03-13T19:10:22+08:00 ] ::1 /Grade_Serching_System/index/checkLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Grade_Serching_System
+
+[ 2018-03-13T19:22:42+08:00 ] ::1 /E/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+ERR: 无法加载模块:E
+
+[ 2018-03-13T19:22:53+08:00 ] ::1 /E/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:E
+
+[ 2018-03-13T19:31:26+08:00 ] ::1 /X/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+ERR: 无法加载模块:Index
+
+[ 2018-03-13T19:31:30+08:00 ] ::1 /X/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Index
+
+[ 2018-03-13T19:32:28+08:00 ] ::1 /X/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Index
+
+[ 2018-03-13T19:32:28+08:00 ] ::1 /X/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Index
+
+[ 2018-03-13T19:32:28+08:00 ] ::1 /X/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+ERR: 无法加载模块:Index
+
+[ 2018-03-13T19:32:29+08:00 ] ::1 /X/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Index
+
+[ 2018-03-13T19:32:29+08:00 ] ::1 /X/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Index
+
+[ 2018-03-13T19:32:29+08:00 ] ::1 /X/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Index
+
+[ 2018-03-13T19:40:57+08:00 ] ::1 /Grade_Serching_System/index.php/Index/checkLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Index
+
+[ 2018-03-13T19:41:39+08:00 ] ::1 /Grade_Serching_System/index.php/Index/checkLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+ERR: 无法加载模块:Index
+
+[ 2018-03-13T19:44:07+08:00 ] ::1 /Grade_Serching_System/index.php/Index/checkLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+ERR: 无法加载模块:Index
+
+[ 2018-03-13T19:46:23+08:00 ] ::1 /Grade_Serching_System/index.php/Index/checkLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Index
+
+[ 2018-03-13T19:49:15+08:00 ] ::1 /Grade_Serching_System/index.php/Index/checkLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Index
+
+[ 2018-03-13T19:49:25+08:00 ] ::1 /Grade_Serching_System/index.php/Index/checkLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Index
+
+[ 2018-03-13T20:08:33+08:00 ] ::1 /Grade_Serching_System/index.php/Index/checkLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Index
+
+[ 2018-03-13T20:10:14+08:00 ] ::1 /Grade_Serching_System/index.php/Index/checkLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Index
+
+[ 2018-03-13T20:12:06+08:00 ] ::1 /Grade_Serching_System/index.php/Index/checkLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Index
+
+[ 2018-03-13T20:14:48+08:00 ] ::1 /Grade_Serching_System/__public__/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+ERR: 无法加载模块:Grade_Serching_System
+
+[ 2018-03-13T20:19:28+08:00 ] ::1 /Grade_Serching_System/__public__/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Grade_Serching_System
+
+[ 2018-03-13T20:23:16+08:00 ] ::1 /Grade_Serching_System/__public__/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Grade_Serching_System
+
+[ 2018-03-13T20:26:22+08:00 ] ::1 /Grade_Serching_System/__public__/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+ERR: 无法加载模块:Grade_Serching_System
+
+[ 2018-03-13T20:27:16+08:00 ] ::1 /Grade_Serching_System/__public__/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Grade_Serching_System
+
+[ 2018-03-13T20:27:39+08:00 ] ::1 /Grade_Serching_System/__public__/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+ERR: 无法加载模块:Grade_Serching_System
+
+[ 2018-03-13T20:28:49+08:00 ] ::1 /Grade_Serching_System/__public__/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Grade_Serching_System
+
+[ 2018-03-13T20:30:37+08:00 ] ::1 /Grade_Serching_System/__public__/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+ERR: 无法加载模块:Grade_Serching_System
+
+[ 2018-03-13T20:30:37+08:00 ] ::1 /Grade_Serching_System/__public__/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+ERR: 无法加载模块:Grade_Serching_System
+
+[ 2018-03-13T20:30:38+08:00 ] ::1 /Grade_Serching_System/__public__/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+ERR: 无法加载模块:Grade_Serching_System
+
+[ 2018-03-13T20:30:38+08:00 ] ::1 /Grade_Serching_System/__public__/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Grade_Serching_System
+
+[ 2018-03-13T20:32:15+08:00 ] ::1 /Grade_Serching_System/__public__/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+ERR: 无法加载模块:Grade_Serching_System
+
+[ 2018-03-13T20:32:16+08:00 ] ::1 /Grade_Serching_System/__public__/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 无法加载模块:Grade_Serching_System
+
+[ 2018-03-13T20:32:16+08:00 ] ::1 /Grade_Serching_System/__public__/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+ERR: 无法加载模块:Grade_Serching_System
+
+[ 2018-03-13T20:32:16+08:00 ] ::1 /Grade_Serching_System/__public__/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Grade_Serching_System
+
